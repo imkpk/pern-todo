@@ -1,0 +1,4 @@
+.vscode
+.idea
+pern-backend-todo/node_modules/
+pern-front-end/node_modules/
